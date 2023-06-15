@@ -122,3 +122,12 @@ header{
     border-radius: 20%;
 }
 
+#link{
+    color: white;
+}
+
+.animacion img{
+    width: 800px;
+    height: 550px;
+}
+
